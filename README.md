@@ -1,6 +1,7 @@
 # Garmin Basecamp Puppet Module for Boxen
 
-This simple module will install Garmin's Basecamp software for all your GPS
+This simple module will install [Garmin's
+Basecamp](http://www.garmin.com/en-US/shop/downloads/basecamp) software for all your GPS
 mapping needs.
 
 [![Build Status](https://travis-ci.org/gaahrdner/puppet-garminbasecamp.png?branch=master)](https://travis-ci.org/gaahrdner/puppet-garminbasecamp)
